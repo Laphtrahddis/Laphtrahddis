@@ -1,6 +1,6 @@
-[![MasterHead](https://wallpapers.com/images/hd/gears-linkedin-cover-mvrjmcq6p2mfs1sq.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Siddharth Pal</h1>
-<h3 align="center">A passionate developer from India</h3>
+
+<h1>Hi, I'm Siddharth Pal</h1>
+<h3>A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laphtrahddis&label=Profile%20views&color=0e75b6&style=flat" alt="laphtrahddis" /> </p>
 
